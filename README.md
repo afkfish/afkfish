@@ -4,7 +4,7 @@ Hi 👋 I'am afkfish
 Back end developer and student
 ------------------------------
 
-I'am learning Computer Science at BME and coding for at least 5 years now in Python and node.
+I'am learning Computer Science at [BME](https://www.bme.hu/?language=en) and coding for at least 5 years now in Python and node.
 
 *   🌍  I'm based in Budapest
 *   🧠  I'm learning C# and Java
