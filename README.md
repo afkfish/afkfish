@@ -11,9 +11,6 @@ I'am learning Computer Science at [BME](https://www.bme.hu/?language=en).
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afkfish&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afkfish&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-###  Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=afkfish&icon=0&color=2)](https://visitcount.itsvg.in)
 
