@@ -5,7 +5,7 @@ I'am learning Computer Science at [BME](https://www.bme.hu/?language=en).
 *   🧠  I'm learning Java, C# (.Net)
 
 #  Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![python][https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white] ![C#](https://img.shields.io/badge/c%23?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #  GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afkfish&theme=dark#gh-dark-mode-only)
