@@ -5,7 +5,7 @@ I'am learning Computer Science at [BME](https://www.bme.hu/?language=en).
 *   🧠  I'm learning Java, C# (.Net)
 
 #  Tech Stack:
-![python](https://img.shields.io/badge/python-darkblue?style=for-the-badge&logo=python&logoColor=white) 
+![python](https://img.shields.io/badge/python-4571A1?style=for-the-badge&logo=python&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-dodgerblue?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-firebrick?style=for-the-badge&logo=java&logoColor=white) 
