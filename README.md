@@ -2,7 +2,7 @@
 I'am learning Computer Science at [BME](https://www.bme.hu/?language=en).
 <br>Coding for at least 8 years now in Python and 3 in Java.
 *   🌍  I'm based in Budapest
-*   🧠  I'm learning Java, C# (.Net)
+*   🧠  I'm learning Swift, TypeScript
 
 #  Tech Stack:
 ![python](https://img.shields.io/badge/python-4571A1?style=for-the-badge&logo=python&logoColor=white) 
