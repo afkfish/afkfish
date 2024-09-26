@@ -8,8 +8,5 @@ I'm currently studying at Budapest University of Technology and Economics. Speci
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afkfish&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afkfish&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=afkfish&icon=0&color=3)](https://visitcount.itsvg.in)
