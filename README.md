@@ -1,5 +1,5 @@
 # About Me:
-I'm currently studying at Budapest University of Technology and Economics. Specialised in IOS development and backend.
+I'm currently working at Hungarian Telekom and finishing my studies at Budapest University of Technology and Economics. Specialised in data acquisition/processing, IOS and backend development.
 
 
 # Tech Stack:
